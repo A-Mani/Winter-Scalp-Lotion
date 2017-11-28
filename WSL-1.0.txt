@@ -1,0 +1,59 @@
+
+Goal: The goal of the project is to solve the following problem:
+
+Problem: Formulate a lotion/conditioner that
+0. Is suited for common scalp conditions in winter
+1. Has long-acting antifungal properties 
+2. Has anti bacterial properties
+3. Is Moisturizing
+4. Is Nonsticky
+5. Can be used as a leave-in treatment
+6. Is suited for women with high estrogen levels.
+
+
+Contributors: A. Mani 
+
+
+Both of the following formulations are best delivered with a blunt syringe/pointed squeeze tube. 
+They Can be used with leave-in conditioners on hair
+
+Scalp Lotion-1
+
+Fluconazole : 450 mg
+Propylene Glycol: 10 ml
+Ethanol: 5 ml
+Cetrimide Solution 5%: 5 ml
+Honey: 15 ml
+Borax: 2.0g
+Tocopherol Acetate: 400mg
+Ascorbic Acid: 1.0g
+Salicyclic acid: 0.5g 
+Sterilized Water: q.s to 100ml 
+
+
+Indications: 
+
+
+Scalp Lotion-2
+
+Fluconazole : 500 mg
+Propylene Glycol: 10 ml
+Ethanol: 5 ml
+Cetrimide Solution 5%: 5 ml
+Honey: 10 ml
+Glycerol: 10ml
+Borax: 2.0g
+Tocopherol Acetate: 400mg
+Ascorbic Acid: 1.0g
+Sodium Chloride: 1g
+Sodium Benzoate: 1g ??
+Sterilized Water: q.s to 100ml 
+
+
+It is known that topical fluconazole can be very effective in handling superficial mycosis while oral fluconazole is suited for combating a broad spectrum of systemic fungal infections/imbalances.
+
+Reference: 
+
+https://www.ncbi.nlm.nih.gov/pubmed/19558428
+Yim S.M. et.al "Study to compare the efficacy and safety of fluconazole cream with flutrimazole cream in the treatment of superficial mycosis: a multicentre, randomised, double-blind, phase III trial."
+Mycoses. 2010 Nov;53(6):522-9. doi: 10.1111/j.1439-0507.2009.01738.x.
